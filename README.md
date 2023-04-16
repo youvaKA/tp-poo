@@ -10,12 +10,12 @@ Ce dépôt contient les tp de poo du tp3 au tp9
 
  - Ce dépot est conposé de plusieurs dossiers, chaque dossier correspond à un TP
  
-    - Tp3 -> [Rectangle et complexe](https://gitlab-etu.fil.univ-lille1.fr/kaoui/poo/-/tree/main/tp3) 
-	- Tp4 -> [Hotels](https://gitlab-etu.fil.univ-lille1.fr/kaoui/poo/-/tree/main/tp4) 
-    - Tp5 -> [Robot](https://gitlab-etu.fil.univ-lille1.fr/kaoui/poo/-/tree/main/tp5) 
-    - Tp6 -> [Image](https://gitlab-etu.fil.univ-lille1.fr/kaoui/poo/-/tree/main/tp6) 
-    - Tp7 -> [Agence](https://gitlab-etu.fil.univ-lille1.fr/kaoui/poo/-/tree/main/tp7) 
-    - Tp8 -> [Afficheur](https://gitlab-etu.fil.univ-lille1.fr/kaoui/poo/-/tree/main/tp8) 
-    - TP9 -> [jeu de l'oie](https://gitlab-etu.fil.univ-lille1.fr/kaoui/poo/-/tree/main/tp9) 
+    - Tp3 -> [Rectangle et complexe](https://github.com/youvaKA/tp-poo/tree/main/tp3) 
+	- Tp4 -> [Hotels](https://github.com/youvaKA/tp-poo/tree/main/tp4) 
+    - Tp5 -> [Robot](https://github.com/youvaKA/tp-poo/tree/main/tp5) 
+    - Tp6 -> [Image](https://github.com/youvaKA/tp-poo/tree/main/tp6) 
+    - Tp7 -> [Agence](https://github.com/youvaKA/tp-poo/tree/main/tp7) 
+    - Tp8 -> [Afficheur](https://github.com/youvaKA/tp-poo/tree/main/tp8) 
+    - TP9 -> [jeu de l'oie](https://github.com/youvaKA/tp-poo/tree/main/tp9) 
     
 
